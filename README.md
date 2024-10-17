@@ -1,4 +1,4 @@
-# Wallpaper App
+# Gallery app
 
 A new Flutter project.
 
